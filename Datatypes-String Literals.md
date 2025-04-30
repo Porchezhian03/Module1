@@ -14,7 +14,8 @@ men_stepped_on_the_moon = input("Enter a string: ")
 print(men_stepped_on_the_moon)
 ```
 ## Output
-![Screenshot 2025-04-30 112554](https://github.com/user-attachments/assets/28c49fa5-7bc7-44f7-8832-ef41a396f99f)
+![Screenshot 2025-04-30 110801](https://github.com/user-attachments/assets/f4f2da75-104b-4831-a604-483172039b13)
+
 
 ## Result
 Thus,the python program Code Execution Successful
